@@ -1,0 +1,10 @@
+2018-03-19 09:38:03,836 [main] INFO  b.c.c.s.d.s.application.Application - Starting Application on Desk with PID 6624 (/home/ruppel/Projects/ruppel/spring-jpa-jersey/target/classes started by ruppel in /home/ruppel/Projects/ruppel/spring-jpa-jersey)
+2018-03-19 09:38:03,839 [main] INFO  b.c.c.s.d.s.application.Application - No active profile set, falling back to default profiles: default
+2018-03-19 09:38:05,712 [localhost-startStop-1] ERROR o.g.j.s.s.SpringComponentProvider - None or multiple beans found in Spring context for type class br.com.cinq.spring.data.resource.CityResource, skipping the type.
+2018-03-19 09:38:05,717 [localhost-startStop-1] ERROR o.g.j.s.s.SpringComponentProvider - None or multiple beans found in Spring context for type class br.com.cinq.spring.data.resource.CountryResource, skipping the type.
+2018-03-19 09:38:07,755 [main] INFO  b.c.c.s.d.s.application.Application - Started Application in 4.201 seconds (JVM running for 6.594)
+2018-03-19 09:50:06,405 [main] INFO  b.c.c.s.d.s.application.Application - Starting Application on Desk with PID 28089 (/home/ruppel/Projects/ruppel/spring-jpa-jersey/target/classes started by ruppel in /home/ruppel/Projects/ruppel/spring-jpa-jersey)
+2018-03-19 09:50:06,407 [main] INFO  b.c.c.s.d.s.application.Application - No active profile set, falling back to default profiles: default
+2018-03-19 09:50:08,284 [localhost-startStop-1] ERROR o.g.j.s.s.SpringComponentProvider - None or multiple beans found in Spring context for type class br.com.cinq.spring.data.resource.CountryResource, skipping the type.
+2018-03-19 09:50:08,285 [localhost-startStop-1] ERROR o.g.j.s.s.SpringComponentProvider - None or multiple beans found in Spring context for type class br.com.cinq.spring.data.resource.CityResource, skipping the type.
+2018-03-19 09:50:10,392 [main] INFO  b.c.c.s.d.s.application.Application - Started Application in 4.23 seconds (JVM running for 6.626)
